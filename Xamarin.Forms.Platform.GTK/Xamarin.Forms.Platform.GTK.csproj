@@ -97,7 +97,7 @@
   <ItemGroup>
     <PackageReference Include="OpenTK" Version="3.0.1" />
     <PackageReference Include="Xamarin.Forms">
-      <Version>5.0.0.2012</Version>
+      <Version>5.0.0.2013</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
