@@ -5,7 +5,7 @@ jobs:
   build_and_deploy:
     env:
         # latest non-preview version at the time of writing this CI script
-        BASE_VERSION: 5.0.0.2013
+        BASE_VERSION: 5.0.0.2015
         DEFAULT_REF_TO_NUGET_PUSH: refs/heads/5.0.0
     runs-on: windows-latest
     steps:
